@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have a background in web development and am currently transitioning into data analytics.</p>
+<p align="left">Tech enthusiast with a web development background, currently exploring blockchain and information security.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Tech enthusiast<br>📚 I'm currently learning  data analytics<br>🎯 Goals: To build a solid foundation in data analytics by actively learning and applying tools such as R, SQL, and Python through real-world projects and consistent practice.</p>
+<p align="left">✨ Tech enthusiast  
+📚 Currently learning Blockchain and Information Security  
+🎯 Goals: To build a strong foundation in secure systems, cryptography, and decentralized technologies through hands-on projects and continuous learning.
+</p>
 
 ###
 
