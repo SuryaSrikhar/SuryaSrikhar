@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tech enthusiast with a web development background, currently exploring blockchain and information security.</p>
+<p align="left">Computer Science student with a background in web development, exploring software development, data, and emerging technologies.</p>
 
 ###
 
