@@ -11,8 +11,8 @@
 ###
 
 <p align="left">✨ Tech enthusiast  
-📚 Currently learning Blockchain and Information Security  
-🎯 Goals: To build a strong foundation in secure systems, cryptography, and decentralized technologies through hands-on projects and continuous learning.
+📚 Currently learning and improving my technical skills through hands-on projects.
+🎯 Goals: To continuously learn, build meaningful projects, and grow as a technology professional.
 </p>
 
 ###
